@@ -1,7 +1,6 @@
 <template>
   <div class="header">
     <img src="../assets/logo.png" alt="">
-    <h2 >Vue CLI</h2>
   </div>
 </template>
 

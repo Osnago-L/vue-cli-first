@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <Title></Title>
-    <Jumbotron></Jumbotron> 
+    <Title/>
+    <Jumbotron/>
   </div>
 </template>
 
@@ -15,7 +15,6 @@ export default {
     Title,
     Jumbotron
   },
-  
 }
 </script>
 
